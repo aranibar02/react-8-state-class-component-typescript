@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 9f614fa (last commit date)
 import React from "react";
 import "./App.css";
 import Footer from "./Footer";
